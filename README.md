@@ -3,11 +3,6 @@
 
 Welcome to our Local Artisan Marketplace repository! This project aims to provide a platform for local artisans to showcase and sell their products to buyers in the community. It features an authentication system for both buyers and sellers, product pages for ordering, and shipment tracking with unique IDs.
 
-## Video Demo
-
-[![Watch the video](https://img.youtube.com/vi/H-bIrMqSrbw/0.jpg)](https://youtu.be/H-bIrMqSrbw?si=mmqPmJaU_3hOX_9i)
-
-
 ## Features
 
 - Authentication System: Buyers and sellers can register and log in securely.
@@ -30,12 +25,6 @@ Welcome to our Local Artisan Marketplace repository! This project aims to provid
 **Client:** React, TailwindCSS
 
 **Server:** Node ,Appwrite
-
-
-## Screenshots
-
-![Map](map.png)
-
 
 
 ## Run Locally
